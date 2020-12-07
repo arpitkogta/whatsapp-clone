@@ -9,7 +9,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      currentUser: 'Ashish Mishra', // state to store current user
+      currentUser: 'Arpit Kogta', // state to store current user
       allContact: users, // all user list, hardcoded as of now
       reciever: '', // current reciever state
       conversation: [], // all conversation data

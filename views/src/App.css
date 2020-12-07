@@ -20,7 +20,7 @@
 .chat-section {
   width: 70vw;
   height: 100vh;
-  background-color: #F7F9FA;
+  background-color: #FFF8DC;
   display: flex;
   flex-direction: column;
   min-width: 650px;
@@ -112,7 +112,7 @@
 }
 
 .contact-card:hover {
-  background-color: #e8fafa;
+  background-color:#A9A9A9;
 }
 
 .contact-card-image-container {

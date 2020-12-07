@@ -9,19 +9,11 @@
     "server": "node server.js",
     "app": "cd client && npm run start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ashishmishra26/web-whatsapp.git"
-  },
   "keywords": [
     "whatsapp"
   ],
-  "author": "Ashish Mishra",
+  "author": "Arpit Kogta",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ashishmishra26/web-whatsapp/issues"
-  },
-  "homepage": "https://github.com/ashishmishra26/web-whatsapp#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "concurrently": "^4.0.1",

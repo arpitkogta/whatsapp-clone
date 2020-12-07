@@ -1,42 +1,42 @@
 var users = [
     {
-        name: 'Supratik Basu',
+        name: 'Priyansh Jain',
         contact: '9038706861'
     },
     {
-        name: 'Ashok Mandal',
+        name: 'Abhishek Goyal',
         contact: '9038706862'
     },
     {
-        name: 'Rahul Das',
+        name: 'Snehil Jain',
         contact: '9038706863'
     },
     {
-        name: 'Priyanjit Dey',
+        name: 'Ananya Bhatnagar',
         contact: '9038706864'
     },
     {
-        name: 'Md Owais',
+        name: 'Kundhavai Maam',
         contact: '9038706865'
     },
     {
-        name: 'Kishan Ayekpam',
+        name: 'Abhigyan Manasvi',
         contact: '9038706865'
     },
     {
-        name: 'Souvik Jana',
+        name: 'Samriddhi Vishwakarma',
         contact: '9038706867'
     },
     {
-        name: 'Rohan Dey',
+        name: 'Anwesh Bhagat',
         contact: '9038706868'
     },
     {
-        name: 'Rohan Dey2',
+        name: 'Mom',
         contact: '9038706869'
     },
     {
-        name: 'Rohan Dey3',
+        name: 'Dad',
         contact: '9038706870'
     }
 ]

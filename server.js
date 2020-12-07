@@ -12,7 +12,7 @@ const app = express();
 const router = express.Router();
 
 // connect to mongoDB through mongoose
-mongoose.connect(process.env.DB_URL);
+mongoose.connect('mongodb+srv://admin-arpit:Kgt12345@cluster0.h5u27.mongodb.net/whatsapp-mern?retryWrites=true&w=majority',{ useNewUrlParser: true });
 mongoose.connection.once('open', () => {
     console.log('Database connection has been made...');
 }).on('error', (error) => {
